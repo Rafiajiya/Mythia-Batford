@@ -6,9 +6,9 @@ let image4 = fs.readFileSync('./media/logo3.jpg')
 let image5 = fs.readFileSync('./media/logo.jpg')
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/DYbwxUvMEzTEsOuYQnBDm2']
-global.owner = ['6289637133848'] // Letakan nomor kamu disini
-global.kontak = ['6289637133848'] //entah lahðŸ—¿
-global.mods = ['17608914335', '6283829756773', '6285755950256', '6281222314374', '6285814839139'] // Moderator?
+global.owner = ['6288233481992'] // Letakan nomor kamu disini
+global.kontak = ['62882007331744'] //entah lahðŸ—¿
+global.mods = ['19726880502', '6288233481992', '62882007331744', '6281222314374', '6285814839139'] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
